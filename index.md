@@ -1,3 +1,0 @@
-#Colourstar's Blog
-
-## Welcome
