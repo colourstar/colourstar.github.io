@@ -79,3 +79,6 @@ RGB565,     不带透明通道,这种方式是16位中最大程度上保留原�
 
 
 > [android和ios优化纹理](http://blog.csdn.net/u013704666/article/details/38906743)
+
+
+> [很好的压缩png的工具->pngquant] (https://pngquant.org)
