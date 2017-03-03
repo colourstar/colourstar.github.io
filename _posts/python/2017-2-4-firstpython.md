@@ -22,3 +22,5 @@ Python可以轻易的嵌入/被嵌入包括C,C++,Java,shell(linux)/batch(windows
 有人举例说用c需要写1000行的代码，java可能需要100行，python可能只需要20行。
 
 这就是大体上对Python的理解，当然诸上所述都需要在日后的学习中慢慢体会
+
+> [超级强大的Python库->anaconda] (https://www.continuum.io/)
